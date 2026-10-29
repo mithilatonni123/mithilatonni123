@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Mithila Mostofa Tonni 👋</h1>
-<p align="left">
+<p align="center">
   <!-- Gmail -->
   <a href="mailto:mithilamostofa96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
