@@ -1,8 +1,17 @@
 <h1 align="center">Hi, I am Mithila Mostofa Tonni 👋</h1>
+<p align="left">
+  <!-- Gmail -->
+  <a href="mailto:mithilamostofa96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mithila-mostofa-tonni-998a18435" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 
 
-I’m a Computer Science and Engineering student passionate about building practical solutions through Artificial Intelligence, Machine Learning, Data Analytics, and Web Development.
 
 
 
