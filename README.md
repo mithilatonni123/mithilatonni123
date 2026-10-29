@@ -1,5 +1,5 @@
                                            
-                                  <h1 align="center">Hi, I am Mithila Mostofa Tonni 👋</h1>
+                                  ### Hi, I am Mithila Mostofa Tonni 👋
 
 
 I’m a Computer Science and Engineering student passionate about building practical solutions through Artificial Intelligence, Machine Learning, Data Analytics, and Web Development.
